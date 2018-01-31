@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<cronentries>
+  <cron>
+    <url>/vaccireminder</url>
+   
+    <schedule>every day 08:00</schedule>
+  </cron>
+  
+  
+</cronentries>
